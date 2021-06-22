@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactBasics-ToDoApp-/static/css/main.503190b2.chunk.css",
+    "main.js": "/ReactBasics-ToDoApp-/static/js/main.1bc1746d.chunk.js",
+    "main.js.map": "/ReactBasics-ToDoApp-/static/js/main.1bc1746d.chunk.js.map",
+    "runtime-main.js": "/ReactBasics-ToDoApp-/static/js/runtime-main.7b068140.js",
+    "runtime-main.js.map": "/ReactBasics-ToDoApp-/static/js/runtime-main.7b068140.js.map",
+    "static/js/2.9b5549c8.chunk.js": "/ReactBasics-ToDoApp-/static/js/2.9b5549c8.chunk.js",
+    "static/js/2.9b5549c8.chunk.js.map": "/ReactBasics-ToDoApp-/static/js/2.9b5549c8.chunk.js.map",
+    "index.html": "/ReactBasics-ToDoApp-/index.html",
+    "static/css/main.503190b2.chunk.css.map": "/ReactBasics-ToDoApp-/static/css/main.503190b2.chunk.css.map",
+    "static/js/2.9b5549c8.chunk.js.LICENSE.txt": "/ReactBasics-ToDoApp-/static/js/2.9b5549c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b068140.js",
+    "static/js/2.9b5549c8.chunk.js",
+    "static/css/main.503190b2.chunk.css",
+    "static/js/main.1bc1746d.chunk.js"
+  ]
+}
